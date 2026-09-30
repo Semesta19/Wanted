@@ -1,0 +1,8 @@
+{
+  "name": "Generator Poster Wanted Interaktif",
+  "description": "Generator poster Wanted buronan kustom ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
